@@ -1,2 +1,2 @@
-# uniapp_qtanalysis_plugin_demo
-QuickTracking Uniapp 原生插件集成demo
+# uniapp_qtanalysis_plugin_android_demo
+QuickTracking Uniapp Android原生插件集成demo
